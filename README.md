@@ -10,3 +10,8 @@ Parte 2 - Busca, análise e identificação dos problemas apresentados nos dados
 Parte 3 - LIMPEZA DE DADOS (removendo colunas vazias, tratando os valores nulos, removendo valores duplicados)
 
 Parte 4 - VERIFICAÇÃO (Verificando a base após a limpeza dos dados)
+
+Parte 5 - ESTATÍSTICAS 
+
+Parte 6 - AGRUPAMENTO por gênero
+
