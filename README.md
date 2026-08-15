@@ -15,3 +15,6 @@ Parte 5 - ESTATÍSTICAS
 
 Parte 6 - AGRUPAMENTO por gênero
 
+Parte 7 - AGRUPAMENTO por categoria de produto
+
+Parte 8 - AGRUPAMENTO EXTRA: Gênero x categoria de produto
